@@ -1,1 +1,2 @@
-Coming Soon!
+融合多尺度信息和特征映射关系的层次多粒度图像分类
+代码：Coming Soon!
